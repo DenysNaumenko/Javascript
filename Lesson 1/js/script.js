@@ -118,7 +118,7 @@
 const user = "Ivan";
 alert(`Привет,${user}`);
 
-операторы 15
+
 
 console.log('arr' + " - object");
 console.log(4 + "5");
